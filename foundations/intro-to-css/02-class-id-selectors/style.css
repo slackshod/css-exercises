@@ -1,0 +1,19 @@
+.odd {
+    background-color: pink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#caption {
+    color:blue;
+    font-size: 36px;
+}
+
+#caption-2 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+#caption-3 {
+    font-size: 24px;
+}
